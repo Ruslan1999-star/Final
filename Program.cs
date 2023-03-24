@@ -12,3 +12,6 @@ void SecondArrayWithIF(string[] array1, string[] array2){
         }
     }
 }
+void PrintArray(string[] array){
+    
+}
